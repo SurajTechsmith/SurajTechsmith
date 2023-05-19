@@ -1,7 +1,7 @@
-<!-- Your Name -->
+<!-- My Name -->
 <h1 align="center">Hello, I'm Suraj Yadav! 👋</h1>
 
-<!-- Your Introduction -->
+<!-- My Introduction -->
 <p align="center">
   Passionate FrontEnd Dev | Code Enthusiast | Explorer of Technologies
 </p>
@@ -25,11 +25,6 @@
 <!-- Languages -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suraj010927&layout=compact&hide_border=true&theme=dark" alt="Top Languages">
-
-
-
-</p>
-
 </p>
 
 
