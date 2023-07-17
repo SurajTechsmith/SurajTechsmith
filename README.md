@@ -35,9 +35,9 @@
 </p>
 
 <!-- Project 1 -->
-<h3 align="center">React News App</h3>
+<h3 align="center">Figma to Web landing page</h3>
 <p align="center">
-  <a href="https://github.com/Suraj010927/React-News-App">GitHub Repository</a> 
+  <a href="https://github.com/Suraj010927/Figma-to-Web-landing-page">GitHub Repository</a> 
 </p>
 <p align="center">
   Description: This is a React-based news application that fetches and displays news articles from various sources.
