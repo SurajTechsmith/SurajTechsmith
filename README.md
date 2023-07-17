@@ -38,7 +38,7 @@
 <h3 align="center">Figma to Web landing page</h3>
 <p align="center">
   <a href="https://github.com/Suraj010927/Figma-to-Web-landing-page">GitHub Repository</a>  |
-  <a href="https://to-do-list-app-lac.vercel.app/">Live Demo</a>
+  <a href="https://figma-website-seven.vercel.app/">Live Demo</a>
 </p> 
 <p align="center">
   Description: This is a React-based website with landing page and dashboard, fully responsive.
