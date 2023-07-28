@@ -19,12 +19,12 @@
 
 <!-- GitHub Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Suraj010927&show_icons=true&hide_border=true&theme=dark" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=SurajTechsmith&show_icons=true&hide_border=true&theme=dark" alt="GitHub Stats">
 </p>
 
 <!-- Languages -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suraj010927&layout=compact&hide_border=true&theme=dark" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SurajTechsmith&layout=compact&hide_border=true&theme=dark" alt="Top Languages">
 </p>
 
 
