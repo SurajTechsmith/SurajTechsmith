@@ -23,11 +23,13 @@
 
 - **To Do Web App**: [Demo](https://to-do-list-app-lac.vercel.app/) | [Repo](https://github.com/SurajTechsmith/To-do-app-with-added-features)
 
-## Frontend Mentor Challenges
-
-- **Results summary component**: [Demo](https://results-summary-component-flax-six.vercel.app/) | [Repo](https://github.com/SurajTechsmith/Results-summary-component)
-
 
 ## Clone Websites
 
 - **Netflix Clone**: [Demo](https://netflix-ui-clone-tau.vercel.app/) | [Repo](https://github.com/SurajTechsmith/Netflix-UI-Clone)
+
+
+## Frontend Mentor Challenges
+
+- **Results summary component**: [Demo](https://results-summary-component-flax-six.vercel.app/) | [Repo](https://github.com/SurajTechsmith/Results-summary-component)
+
