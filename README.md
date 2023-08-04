@@ -14,7 +14,6 @@
 
 
 <!-- Projects -->
-# My Portfolio
 
 ## Personal Projects
 
