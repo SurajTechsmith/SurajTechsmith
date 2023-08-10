@@ -33,6 +33,11 @@
 <!-- Frontend Challenges -->
 <h2 id="frontend-challenges">Frontend Challenges</h2>
 <ul>
+   <li>
+    <strong>NFT preview card component:</strong>
+    <a href="https://github.com/SurajTechsmith/NFT-preview-card-component">Demo</a> |
+    <a href="https://nft-preview-card-component-one-eta.vercel.app/">Repo</a>
+  </li>
   <li>
     <strong>Interactive Rating Component:</strong>
     <a href="https://interactive-rating-component-one-kohl.vercel.app/">Demo</a> |
