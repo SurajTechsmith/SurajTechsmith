@@ -30,6 +30,12 @@
 
 
 ## Frontend Mentor Challenges
+<!-- Frontend Mentor Challenges -->
 
-- **Results summary component**: [Demo](https://results-summary-component-flax-six.vercel.app/) | [Repo](https://github.com/SurajTechsmith/Results-summary-component)
+## Frontend Mentor Challenges
 
+- **Interactive Rating Component**: [Demo](https://interactive-rating-component-one-kohl.vercel.app/) | [Repo](https://github.com/SurajTechsmith/Interactive-rating-component)
+
+- **Product Preview Card Component**: [Demo](https://product-preview-card-component-kappa-one.vercel.app/) | [Repo](https://github.com/SurajTechsmith/product-preview-card-component)
+
+- **Results Summary Component**: [Demo](https://results-summary-component-flax-six.vercel.app/) | [Repo](https://github.com/SurajTechsmith/Results-summary-component)
