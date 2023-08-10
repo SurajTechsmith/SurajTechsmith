@@ -29,13 +29,28 @@
 - **Netflix Clone**: [Demo](https://netflix-ui-clone-tau.vercel.app/) | [Repo](https://github.com/SurajTechsmith/Netflix-UI-Clone)
 
 
-## Frontend Mentor Challenges
-<!-- Frontend Mentor Challenges -->
 
-## Frontend Mentor Challenges
-
-- **Interactive Rating Component**: [Demo](https://interactive-rating-component-one-kohl.vercel.app/) | [Repo](https://github.com/SurajTechsmith/Interactive-rating-component)
-
-- **Product Preview Card Component**: [Demo](https://product-preview-card-component-kappa-one.vercel.app/) | [Repo](https://github.com/SurajTechsmith/product-preview-card-component)
-
-- **Results Summary Component**: [Demo](https://results-summary-component-flax-six.vercel.app/) | [Repo](https://github.com/SurajTechsmith/Results-summary-component)
+<!-- Frontend Challenges -->
+<h2 id="frontend-challenges">Frontend Challenges</h2>
+<ul>
+  <li>
+    <strong>Interactive Rating Component:</strong>
+    <a href="https://interactive-rating-component-one-kohl.vercel.app/" target="_blank">Demo</a> |
+    <a href="https://github.com/SurajTechsmith/Interactive-rating-component" target="_blank">Repo</a>
+  </li>
+  <li>
+    <strong>Product Preview Card Component:</strong>
+    <a href="https://product-preview-card-component-kappa-one.vercel.app/" target="_blank">Demo</a> |
+    <a href="https://github.com/SurajTechsmith/product-preview-card-component" target="_blank">Repo</a>
+  </li>
+  <li>
+    <strong>Results Summary Component:</strong>
+    <a href="https://results-summary-component-flax-six.vercel.app/" target="_blank">Demo</a> |
+    <a href="https://github.com/SurajTechsmith/Results-summary-component" target="_blank">Repo</a>
+  </li>
+  <li>
+    <strong>QR Code Component:</strong>
+    <a href="https://qr-code-component-seven-phi.vercel.app/" target="_blank">Demo</a> |
+    <a href="https://github.com/SurajTechsmith/qr-code-component" target="_blank">Repo</a>
+  </li>
+</ul>
