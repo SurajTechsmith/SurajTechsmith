@@ -35,22 +35,22 @@
 <ul>
   <li>
     <strong>Interactive Rating Component:</strong>
-    <a href="https://interactive-rating-component-one-kohl.vercel.app/" target="_blank">Demo</a> |
-    <a href="https://github.com/SurajTechsmith/Interactive-rating-component" target="_blank">Repo</a>
+    <a href="https://interactive-rating-component-one-kohl.vercel.app/">Demo</a> |
+    <a href="https://github.com/SurajTechsmith/Interactive-rating-component">Repo</a>
   </li>
   <li>
     <strong>Product Preview Card Component:</strong>
-    <a href="https://product-preview-card-component-kappa-one.vercel.app/" target="_blank">Demo</a> |
-    <a href="https://github.com/SurajTechsmith/product-preview-card-component" target="_blank">Repo</a>
+    <a href="https://product-preview-card-component-kappa-one.vercel.app/">Demo</a> |
+    <a href="https://github.com/SurajTechsmith/product-preview-card-component">Repo</a>
   </li>
   <li>
     <strong>Results Summary Component:</strong>
-    <a href="https://results-summary-component-flax-six.vercel.app/" target="_blank">Demo</a> |
-    <a href="https://github.com/SurajTechsmith/Results-summary-component" target="_blank">Repo</a>
+    <a href="https://results-summary-component-flax-six.vercel.app/">Demo</a> |
+    <a href="https://github.com/SurajTechsmith/Results-summary-component">Repo</a>
   </li>
   <li>
     <strong>QR Code Component:</strong>
-    <a href="https://qr-code-component-seven-phi.vercel.app/" target="_blank">Demo</a> |
-    <a href="https://github.com/SurajTechsmith/qr-code-component" target="_blank">Repo</a>
+    <a href="https://qr-code-component-seven-phi.vercel.app/">Demo</a> |
+    <a href="https://github.com/SurajTechsmith/qr-code-component">Repo</a>
   </li>
 </ul>
