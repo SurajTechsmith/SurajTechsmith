@@ -23,9 +23,6 @@
 
 - **To Do Web App**: [Demo](https://to-do-list-app-lac.vercel.app/) | [Repo](https://github.com/SurajTechsmith/To-do-app-with-added-features)
 
-
-## Clone Websites
-
 - **Netflix Clone**: [Demo](https://netflix-ui-clone-tau.vercel.app/) | [Repo](https://github.com/SurajTechsmith/Netflix-UI-Clone)
 
 
