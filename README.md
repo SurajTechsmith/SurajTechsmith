@@ -9,7 +9,7 @@
 <!-- Badges or Icons -->
 <p align="center">
   <a href="mailto:surajyadav27092001@gmail.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=flat-square&logo=Gmail&logoColor=white" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/surajydv/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=LinkedIn&logoColor=white" alt="LinkedIn"></a>
+  <a href="www.linkedin.com/in/surajtechsmith"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=LinkedIn&logoColor=white" alt="LinkedIn"></a>
 </p>
 
 
