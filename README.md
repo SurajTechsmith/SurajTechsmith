@@ -1,13 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
 
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Suraj Yadav - FrontEnd Dev</title>
-</head>
 
-<body>
   <h1 align="center">Hello, I'm Suraj Yadav! 👋</h1>
   <p align="center">Passionate FrontEnd Dev | Code Enthusiast | Explorer of Technologies</p>
 
@@ -81,6 +73,3 @@
       <a href="https://github.com/SurajTechsmith/qr-code-component">Repo</a>
     </li>
   </ul>
-</body>
-
-</html>
