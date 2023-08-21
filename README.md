@@ -45,7 +45,7 @@
   </ul>
 
   <!-- Frontend Challenges -->
-  <h2 align="center">Frontend Challenges</h2>
+  <h2 align="center">Frontend Mentor Challenges</h2>
   <ul>
     <li>
       <strong>NFT preview card component:</strong>
