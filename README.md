@@ -16,9 +16,6 @@
   <!-- Personal Projects -->
   <h2 align="center">Personal Projects</h2>
   <ul>
- # Welcome to My GitHub Profile!
-
-I'm a passionate developer who loves creating web applications. Here you'll find a collection of projects I've worked on:
 
 - [E-Commerce Clone](https://github.com/SurajTechsmith/e-commerce-clone): Add to cart, checkout, authentication using Firebase. [Demo](https://e-commerce-clone-three.vercel.app/)
 - [To-Do Web App](https://github.com/SurajTechsmith/To-do-app-with-added-features): Toggle completed/uncompleted tasks. [Demo](https://to-do-list-app-lac.vercel.app/)
@@ -27,7 +24,10 @@ I'm a passionate developer who loves creating web applications. Here you'll find
 - [2 Page Website](https://github.com/SurajTechsmith/Figma-to-Web-landing-page): Home page, dashboard layout. [Demo](https://figma-website-seven.vercel.app/)
 
 
-Feel free to explore these repositories and learn about the features I've implemented in each project!
+
+
+
+### Feel free to explore these repositories and learn about the features I've implemented in each project!
 
 
   </ul>
@@ -36,7 +36,6 @@ Feel free to explore these repositories and learn about the features I've implem
   <h2 align="center">Frontend Mentor Challenges</h2>
   <ul>
     <li>
-      
       <strong>NFT preview card component:</strong>
       <a href="https://nft-preview-card-component-one-eta.vercel.app/">Demo</a> |
       <a href="https://github.com/SurajTechsmith/NFT-preview-card-component">Repo</a>
