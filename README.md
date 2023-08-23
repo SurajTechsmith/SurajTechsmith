@@ -21,7 +21,7 @@
 - [To-Do Web App](https://github.com/SurajTechsmith/To-do-app-with-added-features): Toggle completed/uncompleted tasks. [Demo](https://to-do-list-app-lac.vercel.app/)
 - [Netflix UI Clone](https://github.com/SurajTechsmith/Netflix-UI-Clone): Movie API integration, responsive design. [Demo](https://netflix-ui-clone-tau.vercel.app/)
 - [News Web App](https://github.com/SurajTechsmith/React-News-App): Swiper.js carousel, News API integration. [Demo](https://react-news-app-flame.vercel.app/)
-- [2 Page Website](https://github.com/SurajTechsmith/Figma-to-Web-landing-page): Home page, dashboard layout. [Demo](https://figma-website-seven.vercel.app/)
+- [Figma to Web Landing Page](https://github.com/SurajTechsmith/Figma-to-Web-landing-page): Home page, dashboard layout. [Demo](https://figma-website-seven.vercel.app/)
 
 
 
