@@ -16,31 +16,14 @@
   <!-- Personal Projects -->
   <h2 align="center">Personal Projects</h2>
   <ul>
-        <li>
-      <strong>E-Commerce Clone:</strong>
-      <a href="https://e-commerce-clone-three.vercel.app/">Demo</a> |
-      <a href="https://github.com/SurajTechsmith/e-commerce-clone">Repo</a>
-    </li>
-    <li>
-      <strong>2 Page Website:</strong>
-      <a href="https://figma-website-seven.vercel.app/">Demo</a> |
-      <a href="https://github.com/SurajTechsmith/Figma-to-Web-landing-page">Repo</a>
-    </li>
-    <li>
-      <strong>News Web APP:</strong>
-      <a href="https://react-news-app-flame.vercel.app/">Demo</a> |
-      <a href="https://github.com/SurajTechsmith/React-News-App">Repo</a>
-    </li>
-    <li>
-      <strong>To Do Web App:</strong>
-      <a href="https://to-do-list-app-lac.vercel.app/">Demo</a> |
-      <a href="https://github.com/SurajTechsmith/To-do-app-with-added-features">Repo</a>
-    </li>
-    <li>
-      <strong>Netflix Clone:</strong>
-      <a href="https://netflix-ui-clone-tau.vercel.app/">Demo</a> |
-      <a href="https://github.com/SurajTechsmith/Netflix-UI-Clone">Repo</a>
-    </li>
+ 
+- [E-Commerce Clone](https://github.com/SurajTechsmith/e-commerce-clone): Add to cart, checkout, authentication using Firebase.
+- [To-Do Web App](https://github.com/SurajTechsmith/To-do-app-with-added-features): Toggle completed/uncompleted tasks.
+- [Netflix UI Clone](https://github.com/SurajTechsmith/Netflix-UI-Clone): Movie API integration, responsive design.
+- [News Web App](https://github.com/SurajTechsmith/React-News-App): Swiper.js carousel, News API integration.
+- [2 Page Website](https://github.com/SurajTechsmith/Figma-to-Web-landing-page): Home page, dashboard layout.
+
+Feel free to explore these repositories and learn about the features I've implemented in each project!
 
   </ul>
 
