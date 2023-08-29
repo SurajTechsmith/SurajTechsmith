@@ -12,7 +12,7 @@
 </p>
 
 <!-- Personal Projects -->
-<h2 align="center">Personal Projects</h2>
+<h2 align="center">Skill-Building Project</h2>
 <ul>
 
 - [E-Commerce Clone](https://github.com/SurajTechsmith/e-commerce-clone): Add to cart, checkout, authentication using Firebase. [Demo](https://e-commerce-clone-three.vercel.app/)
