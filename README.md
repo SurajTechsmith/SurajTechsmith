@@ -12,6 +12,7 @@
 <h2 align="center">Personal Project</h2>
 <ul>
 
+- [Indian History Map Timeline](https://github.com/SurajTechsmith/Indian-History-Map-Timeline):Interactive map with markers for historical events using Leaflet. [Demo](https://indian-history-map-timeline.vercel.app/)
 - [E-Commerce Clone](https://github.com/SurajTechsmith/e-commerce-clone): Add to cart, checkout, authentication using Firebase. [Demo](https://e-commerce-clone-three.vercel.app/)
 - [To-Do Web App](https://github.com/SurajTechsmith/simple-to-do-app): Toggle completed/uncompleted tasks. [Demo](https://to-do-list-app-lac.vercel.app/)
 - [Netflix UI Clone](https://github.com/SurajTechsmith/Netflix-UI-Clone): Movie API integration, responsive design. [Demo](https://netflix-ui-clone-tau.vercel.app/)
