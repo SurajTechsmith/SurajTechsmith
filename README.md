@@ -11,10 +11,9 @@
 <!-- Personal Projects -->
 <h2 align="center">Personal Project</h2>
 <ul>
-
+- [TO-DO List Web App](https://github.com/SurajTechsmith/Todo-web-app): A web app for managing tasks. [Demo](https://todo-web-app-gilt.vercel.app/)
 - [Indian History Map Timeline](https://github.com/SurajTechsmith/Indian-History-Map-Timeline):Interactive map with markers for historical events using Leaflet. [Demo](https://indian-history-map-timeline.vercel.app/)
 - [E-Commerce Clone](https://github.com/SurajTechsmith/e-commerce-clone): Add to cart, checkout, authentication using Firebase. [Demo](https://e-commerce-clone-three.vercel.app/)
-- [To-Do Web App](https://github.com/SurajTechsmith/simple-to-do-app): Toggle completed/uncompleted tasks. [Demo](https://to-do-list-app-lac.vercel.app/)
 - [Netflix UI Clone](https://github.com/SurajTechsmith/Netflix-UI-Clone): Movie API integration, responsive design. [Demo](https://netflix-ui-clone-tau.vercel.app/)
 - [News Web App](https://github.com/SurajTechsmith/React-News-App): Swiper.js carousel, News API integration. [Demo](https://react-news-app-flame.vercel.app/)
 - [Figma to Web Landing Page](https://github.com/SurajTechsmith/Figma-to-Web-landing-page): Home page, dashboard layout. [Demo](https://figma-website-seven.vercel.app/)
